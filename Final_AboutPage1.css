@@ -18,8 +18,7 @@ body{
 	}
 
 .galleryvideo embed{
-	height: 250px;
-	width: 
+	clear: both;
 }
 
 #galleryheading{
